@@ -18,3 +18,6 @@ O repositório está organizado em pastas separadas para cada história do usuá
 
 ## Observação:
 Este repositório é um recurso dinâmico e evolutivo, sujeito a atualizações frequentes à medida que novas histórias do usuário são identificadas, refinadas e implementadas ao longo do ciclo de desenvolvimento do projeto BudgetBuddy.
+
+## Colaboradores:
+* [Clailson Jorge](https://github.com/ClailsonJorge)
