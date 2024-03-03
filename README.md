@@ -16,8 +16,5 @@ O objetivo principal deste repositório é fornecer uma referência centralizada
 ## Organização:
 O repositório está organizado em pastas separadas para cada história do usuário, facilitando a localização e a referência rápida das informações relevantes. Além disso, são utilizadas convenções de nomenclatura claras e consistentes para garantir uma estrutura coesa e fácil de navegar.
 
-## Colaboração:
-Todos os membros da equipe têm permissões de leitura e escrita no repositório, incentivando a colaboração e a contribuição ativa para a melhoria contínua das histórias do usuário e de suas representações visuais.
-
 ## Observação:
 Este repositório é um recurso dinâmico e evolutivo, sujeito a atualizações frequentes à medida que novas histórias do usuário são identificadas, refinadas e implementadas ao longo do ciclo de desenvolvimento do projeto BudgetBuddy.
