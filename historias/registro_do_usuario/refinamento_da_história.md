@@ -21,6 +21,13 @@ Usuário deve registrar esse campo para ser utilizado como um dado estatístico,
 
 - Formato de data: dd/mm/aaaa;
 
+### Password:
+- Deve seguir a mesma regra do cadastro de senha
+- No mínimo 8 dígitos
+- Ao menos uma letra maíscula e uma minúscula
+- Deve ter ao menos 1 número
+- Deve ter ao menos 1 caractere especial
+  
 > Observação: Todos os campos são obrigatórios.
 
 ## Comportamento
